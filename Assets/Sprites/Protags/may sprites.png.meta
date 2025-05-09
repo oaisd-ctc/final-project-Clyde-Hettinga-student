@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 0986aacd6d43b794a8d10de61ae0389e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5429440243663963617
+    second: may sprites_0
+  - first:
+      213: 7098112409526207675
+    second: may sprites_1
+  - first:
+      213: -4252755492711026233
+    second: may sprites_2
+  - first:
+      213: 4395853655127850973
+    second: may sprites_3
+  - first:
+      213: -1741780862846505434
+    second: may sprites_4
+  - first:
+      213: 3742578156318478344
+    second: may sprites_5
+  - first:
+      213: 2684403725076307748
+    second: may sprites_6
+  - first:
+      213: -4194799773182207014
+    second: may sprites_7
+  - first:
+      213: 8435020940804096581
+    second: may sprites_8
+  - first:
+      213: 430928454611499873
+    second: may sprites_9
+  - first:
+      213: -5639275580137396558
+    second: may sprites_10
+  - first:
+      213: -2043078106357586805
+    second: may sprites_11
+  - first:
+      213: 3399512908672415136
+    second: may sprites_12
+  - first:
+      213: -4211354314660354981
+    second: may sprites_13
+  - first:
+      213: 6546415813155659731
+    second: may sprites_14
+  - first:
+      213: 4322286190521543015
+    second: may sprites_15
+  - first:
+      213: -5087742528377425490
+    second: may sprites_16
+  - first:
+      213: 8460536785980884989
+    second: may sprites_17
+  - first:
+      213: 1537990488014618482
+    second: may sprites_18
+  - first:
+      213: -6533362874994928121
+    second: may sprites_19
+  - first:
+      213: 9054171835272681217
+    second: may sprites_20
+  - first:
+      213: -6184564297186120110
+    second: may sprites_21
+  - first:
+      213: 1182781880785321319
+    second: may sprites_22
+  - first:
+      213: 488935156084744287
+    second: may sprites_23
+  - first:
+      213: -9021782305121751351
+    second: may sprites_24
+  - first:
+      213: -6814593936929646457
+    second: may sprites_25
+  - first:
+      213: -6920076659536403977
+    second: may sprites_26
+  - first:
+      213: 49185934484988168
+    second: may sprites_27
+  - first:
+      213: -8396996861611217226
+    second: may sprites_28
+  - first:
+      213: 505573703496070396
+    second: may sprites_29
+  - first:
+      213: -839610778567083582
+    second: may sprites_30
+  - first:
+      213: -2938735831566563878
+    second: may sprites_31
+  - first:
+      213: -8764109353589489866
+    second: may sprites_32
+  - first:
+      213: 2705894268793699549
+    second: may sprites_33
+  - first:
+      213: 55575728467274949
+    second: may sprites_34
+  - first:
+      213: 451619549975148620
+    second: may sprites_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: may sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0642a0f946c64aa2529dd030a576b
+      internalID: -1484670955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 750
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e8270f6445864d988574ad96174d9
+      internalID: -354439220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 750
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2e9b41b540d84b835dd3995a7a559
+      internalID: 766100075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 750
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36b96a67e3f254c808df6714399f61
+      internalID: -1106163108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 750
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f854b390b5f845b6310c8956e137c
+      internalID: 1969674238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 750
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf278a58c8a874689e39666d030c8e
+      internalID: 92902036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3362f849ca9e8d34b94ff1a8ad7ff10b
+      internalID: 977080270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f09419ee7db14aa4448310f7fb442
+      internalID: 907969468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 600
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11a6be23ed28e46b98c74e9b89319e
+      internalID: -87100551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 600
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022262600d993a4c87ee13eda99504d
+      internalID: 1866216110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 600
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454b22e5a9550c43bbf7868a6f4de97
+      internalID: 1333637378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f78987fe339074fa4e5db07edbc962
+      internalID: 1795162576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53b8de2223ba442b1a0b61588dbe89
+      internalID: -1986100042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ad13269b1240b489c8e3d2e2d85e2d
+      internalID: -93448755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77acbc1506d70f4caf3281c88063db6
+      internalID: -1162662366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 450
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38589ec3e063de445a2d5e740c3ae245
+      internalID: -110300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 450
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e38b1a1c52aa4a9c9905ea5ac8982
+      internalID: -835947613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 450
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8668e135055f27438f59eaca6296eaf
+      internalID: 1482514393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724bd699379db2e458d001d09713dcb5
+      internalID: 837552880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 300
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62e55a240ee94478def038604bacd6
+      internalID: -849098665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ff97af66e24546b5914b6eedb22cd
+      internalID: 1690528518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 300
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559be026a58ccfe4399b49a2fe9e26d9
+      internalID: -27473789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 300
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348ac7fcbc857a4eb0d038f227810c9
+      internalID: -460779540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 300
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519de45704c953244bb0565992df4895
+      internalID: 751418684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98860256bb7f9614590e525b916c4f79
+      internalID: -1607757794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879383e09ac3494d84829306e3245f3
+      internalID: 2139405332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 150
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abbd296174fc7b48a2668ffb652fe02
+      internalID: -1775383095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 150
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082ae7447ad5b844586759c19f904dfc
+      internalID: 224540959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 150
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e71565378af61419271d35043035d1
+      internalID: 1429571337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 150
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acc14272fd73644b77da5a491be113
+      internalID: -1519321967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907287ec42416f4a888445a46fb5f91
+      internalID: -1314870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e12e83a93a18e341827abd3972dca35
+      internalID: -1602707418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59d30d8fbdf1b4aa545add17ee8ea8
+      internalID: 1949184790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f321641cb14d63141845c366eee5bac2
+      internalID: 2074749467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b341ba6669fcf94f9257ceccc596075
+      internalID: 497531560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: may sprites_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4a8e65483d5d4584467539ace01fe
+      internalID: 2134934751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77c4a48837dec13488018c2d80952740
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      may sprites_0: -1484670955
+      may sprites_1: -354439220
+      may sprites_10: 1333637378
+      may sprites_11: 1795162576
+      may sprites_12: -1986100042
+      may sprites_13: -93448755
+      may sprites_14: -1162662366
+      may sprites_15: -110300496
+      may sprites_16: -835947613
+      may sprites_17: 1482514393
+      may sprites_18: 837552880
+      may sprites_19: -849098665
+      may sprites_2: 766100075
+      may sprites_20: 1690528518
+      may sprites_21: -27473789
+      may sprites_22: -460779540
+      may sprites_23: 751418684
+      may sprites_24: -1607757794
+      may sprites_25: 2139405332
+      may sprites_26: -1775383095
+      may sprites_27: 224540959
+      may sprites_28: 1429571337
+      may sprites_29: -1519321967
+      may sprites_3: -1106163108
+      may sprites_30: -1314870
+      may sprites_31: -1602707418
+      may sprites_32: 1949184790
+      may sprites_33: 2074749467
+      may sprites_34: 497531560
+      may sprites_35: 2134934751
+      may sprites_4: 1969674238
+      may sprites_5: 92902036
+      may sprites_6: 977080270
+      may sprites_7: 907969468
+      may sprites_8: -87100551
+      may sprites_9: 1866216110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

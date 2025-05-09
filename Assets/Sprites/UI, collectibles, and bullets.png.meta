@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 42baa9e486e6bf441a315b265c97f02c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3702901921712598085
+    second: UI, collectibles, and bullets_0
+  - first:
+      213: -4099567721718799165
+    second: UI, collectibles, and bullets_1
+  - first:
+      213: -9172373255790329146
+    second: UI, collectibles, and bullets_2
+  - first:
+      213: -3977616633601321378
+    second: UI, collectibles, and bullets_3
+  - first:
+      213: -8751903439226725105
+    second: UI, collectibles, and bullets_4
+  - first:
+      213: 3848299910071949422
+    second: UI, collectibles, and bullets_5
+  - first:
+      213: 7330083387017422794
+    second: UI, collectibles, and bullets_6
+  - first:
+      213: -3870704248857775331
+    second: UI, collectibles, and bullets_7
+  - first:
+      213: 6722266631200096037
+    second: UI, collectibles, and bullets_8
+  - first:
+      213: 8849184004015174224
+    second: UI, collectibles, and bullets_9
+  - first:
+      213: -3968936159512856467
+    second: UI, collectibles, and bullets_10
+  - first:
+      213: -6583195551392651691
+    second: UI, collectibles, and bullets_11
+  - first:
+      213: -5425209718006713485
+    second: UI, collectibles, and bullets_12
+  - first:
+      213: 1562289194547243556
+    second: UI, collectibles, and bullets_13
+  - first:
+      213: -8856718662695130998
+    second: UI, collectibles, and bullets_14
+  - first:
+      213: 1989532309701785145
+    second: UI, collectibles, and bullets_15
+  - first:
+      213: -235577179282032119
+    second: UI, collectibles, and bullets_16
+  - first:
+      213: 2921413630092289286
+    second: UI, collectibles, and bullets_17
+  - first:
+      213: 8557096364446595464
+    second: UI, collectibles, and bullets_18
+  - first:
+      213: 4013394738310367160
+    second: UI, collectibles, and bullets_19
+  - first:
+      213: 6350096962859172799
+    second: UI, collectibles, and bullets_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 1327
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3953e2256ac9cc0800000000000000
+      internalID: -3702901921712598085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 586
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c42b46a0e86b17c0800000000000000
+      internalID: -4099567721718799165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 572
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c203550f1f25b080800000000000000
+      internalID: -9172373255790329146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 584
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56128dfebaacc8c0800000000000000
+      internalID: -3977616633601321378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 578
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1f5c013efa8680800000000000000
+      internalID: -8751903439226725105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 583
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6891090168e76530800000000000000
+      internalID: 3848299910071949422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 413
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac76a290100b9b560800000000000000
+      internalID: 7330083387017422794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13bc385efe784ac0800000000000000
+      internalID: -3870704248857775331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 436
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb42e82e94a4d50800000000000000
+      internalID: 6722266631200096037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 412
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052b46777fd9eca70800000000000000
+      internalID: 8849184004015174224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 412
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68780c57918be8c0800000000000000
+      internalID: -3968936159512856467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 416
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562f48768ac3a4a0800000000000000
+      internalID: -6583195551392651691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 413
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37376366188c5b4b0800000000000000
+      internalID: -5425209718006713485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 385
+        width: 16
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a6b6dbebd5ea510800000000000000
+      internalID: 1562289194547243556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 416
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88eb7a1d4d961580800000000000000
+      internalID: -8856718662695130998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 419
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ffec381d3c9b10800000000000000
+      internalID: 1989532309701785145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_16
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 424
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ab4b7bdcf0bbcf0800000000000000
+      internalID: -235577179282032119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_17
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 423
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a2afd732fa8820800000000000000
+      internalID: 2921413630092289286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 428
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88930a75ec9e0c670800000000000000
+      internalID: 8557096364446595464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 489
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74968204172b730800000000000000
+      internalID: 4013394738310367160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI, collectibles, and bullets_20
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 4
+        width: 811
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb302802b83102850800000000000000
+      internalID: 6350096962859172799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI, collectibles, and bullets_0: -3702901921712598085
+      UI, collectibles, and bullets_1: -4099567721718799165
+      UI, collectibles, and bullets_10: -3968936159512856467
+      UI, collectibles, and bullets_11: -6583195551392651691
+      UI, collectibles, and bullets_12: -5425209718006713485
+      UI, collectibles, and bullets_13: 1562289194547243556
+      UI, collectibles, and bullets_14: -8856718662695130998
+      UI, collectibles, and bullets_15: 1989532309701785145
+      UI, collectibles, and bullets_16: -235577179282032119
+      UI, collectibles, and bullets_17: 2921413630092289286
+      UI, collectibles, and bullets_18: 8557096364446595464
+      UI, collectibles, and bullets_19: 4013394738310367160
+      UI, collectibles, and bullets_2: -9172373255790329146
+      UI, collectibles, and bullets_20: 6350096962859172799
+      UI, collectibles, and bullets_3: -3977616633601321378
+      UI, collectibles, and bullets_4: -8751903439226725105
+      UI, collectibles, and bullets_5: 3848299910071949422
+      UI, collectibles, and bullets_6: 7330083387017422794
+      UI, collectibles, and bullets_7: -3870704248857775331
+      UI, collectibles, and bullets_8: 6722266631200096037
+      UI, collectibles, and bullets_9: 8849184004015174224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
